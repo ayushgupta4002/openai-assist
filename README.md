@@ -77,7 +77,7 @@ This package is released under the [MIT License](https://opensource.org/licenses
 
 ## Contributing
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/your/repository).
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository]([https://github.com/ayushgupta4002/openai-assist]).
 
 ## About
 
