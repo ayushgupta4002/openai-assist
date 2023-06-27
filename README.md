@@ -1,6 +1,6 @@
 # OpenAI Assist
 
-openai-assist is a npm package that simplifies integration with the ChatGPT API. It provides a convenient function `query` to retrieve responses from the OpenAI API using just a few lines of code.
+openai-assist is a npm package that simplifies integration with the ChatGPT API. It provides a convenient function `query` to retrieve responses from the OpenAI API using just a few lines of code.The package offers benefits such as simplified integration, developer-friendly interface, code consistency, time-saving, and ease of maintenance. With OpenAI Assist, you can quickly integrate the ChatGPT API, save development time, and ensure a streamlined and efficient process.
 
 ## Installation
 
